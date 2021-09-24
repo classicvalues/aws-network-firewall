@@ -1,0 +1,18 @@
+*.gem
+/docs/node_modules/
+.DS_Store
+
+# Environment normalization:
+/docs/.bundle/
+/docs/vendor/bundle
+/docs/lib/bundler/man/
+
+# unless supporting rvm < 1.11.0 or doing something fancy, ignore this:
+.rvmrc
+
+# Jekyll stuff
+/docs/.jekyll-cache
+/docs/.jekyll-metadata
+/docs/.jekyll-cache
+/docs/_site
+/docs/.sass-cache
