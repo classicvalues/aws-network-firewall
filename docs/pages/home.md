@@ -3,6 +3,7 @@ title: Home
 permalink: /
 
 layout: home
+type: docs
 
 hero:
   image: assets/img/crwd-banner-01.png
